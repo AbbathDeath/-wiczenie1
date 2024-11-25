@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-test4
+test8
 testbranch1
 test2
 test branch
