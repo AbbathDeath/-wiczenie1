@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 test4
 testbranch1
 test2
 test branch
+test5
+test_branch
 test branch3
 testbranch2
