@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+test8
+testbranch1
+test2
+test branch
+test5
+=======
+test6
+>>>>>>> konflikt_sg
+test_branch
+test branch3
+testbranch2
